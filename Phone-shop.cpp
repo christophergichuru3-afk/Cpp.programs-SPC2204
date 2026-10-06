@@ -1,4 +1,12 @@
-5#include <iostream>
+/*
+Name : Christopher gichuru 
+Reg. no.CT101/G/29020/25
+Description: program to calculate employee salaries in company 
+
+*/
+
+
+#include <iostream>
 #include <string>
 #include <iomanip>
 using namespace std;
